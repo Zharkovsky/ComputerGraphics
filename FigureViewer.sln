@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FigureViewer", "FigureViewer\FigureViewer.vcxproj", "{E1239349-153B-42C8-AFA3-27CDA7990A81}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Win32Example", "..\..\Kompyuternaya_grafika_Primer_Win32\Win32Example\Win32Example\Win32Example.vcxproj", "{4E415ADF-D67F-42EF-B059-94F35BC1D23F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1239349-153B-42C8-AFA3-27CDA7990A81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1239349-153B-42C8-AFA3-27CDA7990A81}.Debug|Win32.Build.0 = Debug|Win32
+		{E1239349-153B-42C8-AFA3-27CDA7990A81}.Release|Win32.ActiveCfg = Release|Win32
+		{E1239349-153B-42C8-AFA3-27CDA7990A81}.Release|Win32.Build.0 = Release|Win32
+		{4E415ADF-D67F-42EF-B059-94F35BC1D23F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E415ADF-D67F-42EF-B059-94F35BC1D23F}.Debug|Win32.Build.0 = Debug|Win32
+		{4E415ADF-D67F-42EF-B059-94F35BC1D23F}.Release|Win32.ActiveCfg = Release|Win32
+		{4E415ADF-D67F-42EF-B059-94F35BC1D23F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB077C08-BEF3-43A0-8D65-D5214B880EA2}
+	EndGlobalSection
+EndGlobal
